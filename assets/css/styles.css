@@ -217,10 +217,7 @@ img {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 82%;
-  height: 68%;
-  object-fit: cover;
-  clip-path: circle(54% at 50% 50%);
+  width: 360px;
 }
 
 /*BUTTONS*/
